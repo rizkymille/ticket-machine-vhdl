@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Mon Jun 21 11:33:21 2021
+# Process ID: 16060
+# Current directory: C:/Users/Rizky Millennianno/Documents/Materi Matkul/Semester IV/Elektronika 2/XFI/ticket_machine
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15592 C:\Users\Rizky Millennianno\Documents\Materi Matkul\Semester IV\Elektronika 2\XFI\ticket_machine\ticket_machine.xpr
+# Log file: C:/Users/Rizky Millennianno/Documents/Materi Matkul/Semester IV/Elektronika 2/XFI/ticket_machine/vivado.log
+# Journal file: C:/Users/Rizky Millennianno/Documents/Materi Matkul/Semester IV/Elektronika 2/XFI/ticket_machine\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Rizky Millennianno/Documents/Materi Matkul/Semester IV/Elektronika 2/XFI/ticket_machine/ticket_machine.xpr}

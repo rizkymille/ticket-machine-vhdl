@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ticket_machine_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ticket_machine" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="9000001000000001fs"></ZoomEndTime>
+      <Cursor1Time time="19000001000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="21" />
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/cancel" type="logic">
+      <obj_property name="ElementShortName">cancel</obj_property>
+      <obj_property name="ObjectShortName">cancel</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/stasiunA" type="logic">
+      <obj_property name="ElementShortName">stasiunA</obj_property>
+      <obj_property name="ObjectShortName">stasiunA</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/stasiunB" type="logic">
+      <obj_property name="ElementShortName">stasiunB</obj_property>
+      <obj_property name="ObjectShortName">stasiunB</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/stasiunC" type="logic">
+      <obj_property name="ElementShortName">stasiunC</obj_property>
+      <obj_property name="ObjectShortName">stasiunC</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/stasiunD" type="logic">
+      <obj_property name="ElementShortName">stasiunD</obj_property>
+      <obj_property name="ObjectShortName">stasiunD</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/seribu" type="logic">
+      <obj_property name="ElementShortName">seribu</obj_property>
+      <obj_property name="ObjectShortName">seribu</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/dua_ribu" type="logic">
+      <obj_property name="ElementShortName">dua_ribu</obj_property>
+      <obj_property name="ObjectShortName">dua_ribu</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/lima_ribu" type="logic">
+      <obj_property name="ElementShortName">lima_ribu</obj_property>
+      <obj_property name="ObjectShortName">lima_ribu</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/sepuluh_ribu" type="logic">
+      <obj_property name="ElementShortName">sepuluh_ribu</obj_property>
+      <obj_property name="ObjectShortName">sepuluh_ribu</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/dua_puluh_ribu" type="logic">
+      <obj_property name="ElementShortName">dua_puluh_ribu</obj_property>
+      <obj_property name="ObjectShortName">dua_puluh_ribu</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/kembalian" type="logic">
+      <obj_property name="ElementShortName">kembalian</obj_property>
+      <obj_property name="ObjectShortName">kembalian</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/ticket" type="logic">
+      <obj_property name="ElementShortName">ticket</obj_property>
+      <obj_property name="ObjectShortName">ticket</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/uang_balik" type="logic">
+      <obj_property name="ElementShortName">uang_balik</obj_property>
+      <obj_property name="ObjectShortName">uang_balik</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/stasiun" type="other">
+      <obj_property name="ElementShortName">stasiun</obj_property>
+      <obj_property name="ObjectShortName">stasiun</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/timer" type="other">
+      <obj_property name="ElementShortName">timer</obj_property>
+      <obj_property name="ObjectShortName">timer</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/wait_time" type="other">
+      <obj_property name="ElementShortName">wait_time</obj_property>
+      <obj_property name="ObjectShortName">wait_time</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/tarif" type="other">
+      <obj_property name="ElementShortName">tarif</obj_property>
+      <obj_property name="ObjectShortName">tarif</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/uang" type="other">
+      <obj_property name="ElementShortName">uang</obj_property>
+      <obj_property name="ObjectShortName">uang</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/ticket_machine/uang_kembalian" type="other">
+      <obj_property name="ElementShortName">uang_kembalian</obj_property>
+      <obj_property name="ObjectShortName">uang_kembalian</obj_property>
+   </wvobject>
+</wave_config>
